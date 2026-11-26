@@ -1,5 +1,5 @@
 
-div:active{ background-color: aqua; background-size: contain;}
+div:active{ background-color: rgb(168, 201, 201); background-size: contain; ba}
 div{ background-color: brown; width: 200px; height: 100px;}
 h1:empty{ background-color: chartreuse; width: 20px; height: 20px;}
 a:hover{ color: darksalmon;}
@@ -8,4 +8,3 @@ a:link{ font-size: xx-large;}
 a:visited{ font-size: xx-small;}
 input:focus{ background-color: cornflowerblue;}
 input:invalid{ background-color: rgb(242, 127, 127);}
-div{ transform:skew(3.4);}
